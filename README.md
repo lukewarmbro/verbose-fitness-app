@@ -1,2 +1,2 @@
-# verbose-fishstick
+# macro-meal planner app
 For my projects
